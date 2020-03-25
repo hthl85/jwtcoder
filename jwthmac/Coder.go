@@ -1,4 +1,4 @@
-package hmac
+package jwthmac
 
 import (
 	"errors"
